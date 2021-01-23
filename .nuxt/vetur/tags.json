@@ -1,0 +1,68 @@
+{
+  "Comments": {
+    "description": "Auto imported from components/Comments.vue"
+  },
+  "LazyComments": {
+    "description": "Auto imported from components/Comments.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "LazyLogin": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "PopularProduct": {
+    "description": "Auto imported from components/PopularProduct.vue"
+  },
+  "LazyPopularProduct": {
+    "description": "Auto imported from components/PopularProduct.vue"
+  },
+  "ProductPage": {
+    "description": "Auto imported from components/ProductPage.vue"
+  },
+  "LazyProductPage": {
+    "description": "Auto imported from components/ProductPage.vue"
+  },
+  "ShoppingBasket": {
+    "description": "Auto imported from components/ShoppingBasket.vue"
+  },
+  "LazyShoppingBasket": {
+    "description": "Auto imported from components/ShoppingBasket.vue"
+  },
+  "ShoppingBasketNew": {
+    "description": "Auto imported from components/ShoppingBasketNew.vue"
+  },
+  "LazyShoppingBasketNew": {
+    "description": "Auto imported from components/ShoppingBasketNew.vue"
+  },
+  "ShoppingCart": {
+    "description": "Auto imported from components/ShoppingCart.vue"
+  },
+  "LazyShoppingCart": {
+    "description": "Auto imported from components/ShoppingCart.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "LazySidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "SimilarProducts": {
+    "description": "Auto imported from components/SimilarProducts.vue"
+  },
+  "LazySimilarProducts": {
+    "description": "Auto imported from components/SimilarProducts.vue"
+  },
+  "Slider": {
+    "description": "Auto imported from components/Slider.vue"
+  },
+  "LazySlider": {
+    "description": "Auto imported from components/Slider.vue"
+  }
+}

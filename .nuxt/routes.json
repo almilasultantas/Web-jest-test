@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Coffeepage",
+    "path": "/Coffeepage",
+    "component": "C:\\\\Users\\\\Casper\\\\Desktop\\\\webbkahhve-main\\\\pages\\\\Coffeepage.vue",
+    "chunkName": "pages/Coffeepage"
+  },
+  {
+    "name": "Loginpage",
+    "path": "/Loginpage",
+    "component": "C:\\\\Users\\\\Casper\\\\Desktop\\\\webbkahhve-main\\\\pages\\\\Loginpage.vue",
+    "chunkName": "pages/Loginpage"
+  },
+  {
+    "name": "Productpage",
+    "path": "/Productpage",
+    "component": "C:\\\\Users\\\\Casper\\\\Desktop\\\\webbkahhve-main\\\\pages\\\\Productpage.vue",
+    "chunkName": "pages/Productpage"
+  },
+  {
+    "name": "Shoppingbasket",
+    "path": "/Shoppingbasket",
+    "component": "C:\\\\Users\\\\Casper\\\\Desktop\\\\webbkahhve-main\\\\pages\\\\Shoppingbasket.vue",
+    "chunkName": "pages/Shoppingbasket"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id?",
+    "component": "C:\\\\Users\\\\Casper\\\\Desktop\\\\webbkahhve-main\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Casper\\\\Desktop\\\\webbkahhve-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
